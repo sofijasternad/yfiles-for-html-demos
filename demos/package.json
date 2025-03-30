@@ -19,7 +19,7 @@
     "d3": "~7.8.5",
     "demo-resources": "./resources",
     "demo-utils": "./utils",
-    "jspdf": "2.5.1",
+    "jspdf": "3.0.1",
     "leaflet": "~1.9.4",
     "markdown-it": "13.0.2",
     "neo4j-driver": "5.14.0",

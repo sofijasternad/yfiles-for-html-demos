@@ -14,7 +14,7 @@
     "@types/react": "18.2.38",
     "@types/react-dom": "18.2.17",
     "demo-resources": "../../resources",
-    "next": "14.0.3",
+    "next": "15.5.14",
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "yfiles": "../../../lib-dev/yfiles-26.0.4+dev.tgz"

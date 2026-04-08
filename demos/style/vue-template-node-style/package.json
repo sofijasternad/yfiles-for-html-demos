@@ -24,7 +24,7 @@
     "@types/codemirror": "~5.60.15",
     "@yworks/optimizer": "^1.8.1",
     "typescript": "~5.3.2",
-    "vite": "^5.0.4",
+    "vite": "^8.0.7",
     "vue-tsc": "^1.8.1"
   }
 }

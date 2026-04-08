@@ -16,7 +16,7 @@
     "@playwright/test": "^1.40.1",
     "@vitest/ui": "^0.34.6",
     "playwright": "^1.40.1",
-    "vite": "^5.0.4",
+    "vite": "^8.0.7",
     "vitest": "^0.34.6"
   }
 }

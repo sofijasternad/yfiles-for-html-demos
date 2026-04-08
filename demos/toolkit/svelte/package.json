@@ -19,9 +19,9 @@
     "@sveltejs/vite-plugin-svelte": "^3.0.1",
     "@tsconfig/svelte": "^5.0.2",
     "@yworks/optimizer": "^1.8.2",
-    "svelte": "^4.2.7",
+    "svelte": "^5.55.2",
     "svelte-preprocess": "^5.1.1",
     "typescript": "~5.3.2",
-    "vite": "^5.0.4"
+    "vite": "^8.0.7"
   }
 }
